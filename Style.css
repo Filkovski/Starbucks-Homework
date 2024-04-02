@@ -113,3 +113,15 @@ nav .join-now-btn:hover {
   margin-right: 290px;
   color: hsl(164, 31%, 17%);
 }
+.right {
+  display: flex;
+  flex-direction: column;
+  background-color: #d5d0ea;
+  height: 625px;
+  width: 720px;
+}
+.right p {
+  text-align: center;
+  font-size: 24px;
+  box-sizing: inherit;
+}

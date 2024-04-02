@@ -66,12 +66,14 @@ nav .join-now-btn:hover {
   width: 1664px;
   height: 629px;
   justify-content: center;
+  margin: 10px;
 }
 .menu2 {
   display: flex;
   width: 1664px;
   height: 420px;
   justify-content: center;
+  margin: 10px;
 }
 .right img {
   height: 625px;
